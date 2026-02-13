@@ -1,0 +1,1 @@
+# Conceptual Cultural Index: A Metric for Cultural Specificity via Relative Generality
