@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment
+.venv/
+
+# Local tool/history artifacts
+.history/
+
+# Local run output
+*.csv
